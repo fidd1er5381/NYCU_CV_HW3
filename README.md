@@ -83,7 +83,11 @@ This will generate:
 - **Epochs**: 60
 
 ### Performance Metrics
-- mAP@50: 0.29 on validation set
+- mAP@50: 0.292
+
+## Performance Snapshot
+![image](https://github.com/user-attachments/assets/c8d345a7-95c6-4095-87ad-457910fb08c2)
+
 
 ## Outputs
 
